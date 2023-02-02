@@ -1,0 +1,225 @@
+.truck1 {
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.truck-container {
+  border-radius: 5px;
+  background-color: #1e2130;
+  backdrop-filter: blur(19.01px);
+  flex-direction: row;
+  padding: 7px 14px;
+  opacity: 0.8;
+}
+.ferguson-241-di-tonner-group,
+.tags7,
+.truck-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tags7 {
+  flex-direction: row;
+  gap: 8px;
+  font-size: 12px;
+  color: #fff;
+}
+.ferguson-241-di-tonner-group {
+  flex-direction: column;
+  gap: 10px;
+}
+.km9 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+.frame-child81 {
+  position: relative;
+  border-right: 1px solid #1e2130;
+  box-sizing: border-box;
+  width: 0.95px;
+  height: 22.95px;
+  flex-shrink: 0;
+  opacity: 0.2;
+}
+.frame-parent157,
+.km-parent6 {
+  display: flex;
+  justify-content: flex-start;
+}
+.km-parent6 {
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  opacity: 0.7;
+  font-size: 14px;
+  color: #1e2130;
+}
+.frame-parent157 {
+  position: absolute;
+  top: 32px;
+  left: 28px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  font-size: 24px;
+  color: #101010;
+}
+.frame-icon59 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.test-drive-available1 {
+  position: relative;
+  font-weight: 500;
+}
+.frame-parent158,
+.frame-parent159 {
+  position: absolute;
+  top: 153px;
+  left: 28px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-parent159 {
+  top: 187px;
+}
+.frame-child84 {
+  position: absolute;
+  top: 221.5px;
+  left: 27.5px;
+  border-top: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  width: 418px;
+  height: 1px;
+}
+.div39,
+.div40 {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.div39 {
+  font-weight: 800;
+}
+.div40 {
+  font-size: 18px;
+  text-decoration: line-through;
+  color: #7d808e;
+}
+.parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  gap: 22px;
+}
+.inclusive-of-all8 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: #7d808e;
+}
+.frame-parent160 {
+  position: absolute;
+  top: 243px;
+  left: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  font-size: 28px;
+  color: #1e2130;
+}
+.frame-child85 {
+  position: absolute;
+  top: 0;
+  left: 313px;
+  border-radius: 8px;
+  width: 160px;
+  height: 166px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-parent156 {
+  position: relative;
+  border-radius: 18px;
+  background-color: #fff;
+  border: 1.5px solid #e0e0e0;
+  box-sizing: border-box;
+  width: 473px;
+  height: 334px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.emi-calculator {
+  position: relative;
+  font-weight: 800;
+}
+.pellentesque-nisi-venenatis {
+  position: relative;
+  font-size: 16px;
+  font-weight: 500;
+  color: #6a6d7e;
+  display: inline-block;
+  width: 417px;
+}
+.emi-calculator-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.calculate-emi {
+  position: relative;
+}
+.calculate-emi-wrapper {
+  align-self: stretch;
+  border-radius: 8px;
+  background-color: #1e2130;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 17px 24px;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: #fff;
+}
+.frame-parent155,
+.frame-parent161 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent161 {
+  border-radius: 18px;
+  border: 1.5px solid #e0e0e0;
+  box-sizing: border-box;
+  width: 474.5px;
+  padding: 32px 28px;
+  align-items: flex-start;
+  gap: 18px;
+  font-size: 28px;
+  color: #1e2130;
+}
+.frame-parent155 {
+  position: absolute;
+  top: 182px;
+  right: 80px;
+  align-items: flex-end;
+  gap: 13px;
+  text-align: left;
+  font-size: 16px;
+  color: #6a6d7e;
+  font-family: Mulish;
+}

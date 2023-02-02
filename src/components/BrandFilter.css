@@ -1,0 +1,355 @@
+.tractor6 {
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.tractor-wrapper4 {
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(19.01px);
+  display: flex;
+  flex-direction: row;
+  padding: 5px 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.petrol7 {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Mulish;
+  color: #fff;
+  text-align: left;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 5px 10px;
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 5px;
+  backdrop-filter: blur(19.01px);
+}
+.frame-button,
+.pic5,
+.tags6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tags6 {
+  margin: 0 !important;
+  position: absolute;
+  top: 174px;
+  left: 12px;
+  gap: 8px;
+  z-index: 0;
+}
+.pic5 {
+  border-radius: 10px;
+  position: relative;
+  background-image: url(../../public/pic@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.ferguson-241-di6,
+.km8 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+.km8 {
+  font-weight: 500;
+}
+.frame-child62 {
+  position: relative;
+  border-right: 1px solid #1e2130;
+  box-sizing: border-box;
+  width: 0.95px;
+  height: 13.67px;
+  flex-shrink: 0;
+  opacity: 0.2;
+}
+.km-parent5,
+.title5 {
+  display: flex;
+  justify-content: flex-start;
+}
+.km-parent5 {
+  width: 245.89px;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  opacity: 0.7;
+  font-size: 12px;
+  color: #1e2130;
+}
+.title5 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  z-index: 0;
+}
+.div23,
+.inclusive-of-all7 {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.div23 {
+  font-weight: 800;
+}
+.inclusive-of-all7 {
+  font-size: 12px;
+  color: #7d808e;
+}
+.price5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+  z-index: 1;
+  font-size: 28px;
+  color: #1e2130;
+}
+.div24 {
+  position: absolute;
+  margin: 0 !important;
+  top: 70px;
+  left: 162px;
+  font-size: 16px;
+  text-decoration: line-through;
+  letter-spacing: 0.02em;
+  color: #7d808e;
+  z-index: 2;
+}
+.text25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 10px;
+}
+.content5 {
+  padding: 12px 10px 10px;
+  font-size: 20px;
+  color: #101010;
+}
+.content5,
+.main9,
+.product-cards2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-cards2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 477px);
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 0 2px 40px rgba(0, 0, 0, 0.04);
+  border: 1px solid #e8e8e8;
+  padding: 18px 18px 14px;
+  align-items: center;
+  justify-content: center;
+}
+.browse-by-brand-child3,
+.product-cards-container {
+  position: absolute;
+  top: 690px;
+  left: 407px;
+  width: 954px;
+  height: 375px;
+}
+.browse-by-brand-child3 {
+  top: 1499px;
+  border-radius: 25px;
+  background-color: #1e2130;
+  width: 953px;
+  height: 204px;
+  overflow: hidden;
+}
+.home-icon5 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.breadcrumb-button-base25 {
+  border-radius: 6px;
+  display: flex;
+  flex-direction: row;
+  padding: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chevron-right-icon20,
+.chevron-right-icon21 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.chevron-right-icon21 {
+  display: none;
+}
+.text26 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.breadcrumb-button-base26 {
+  border-radius: 6px;
+  display: none;
+  flex-direction: row;
+  padding: 4px 8px;
+  align-items: center;
+  justify-content: center;
+}
+.text28 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.breadcrumb-button-base28 {
+  border-radius: 6px;
+  background-color: #fdebb0;
+  display: flex;
+  flex-direction: row;
+  padding: 4px 12px;
+  align-items: center;
+  justify-content: center;
+  color: #1e2130;
+  font-family: Mulish;
+}
+.breadcrumbs5,
+.tabs5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.tabs5 {
+  align-items: center;
+  gap: 8px;
+}
+.breadcrumbs5 {
+  align-items: flex-start;
+}
+.frame-icon38 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.clear-all {
+  position: relative;
+  font-weight: 600;
+}
+.frame-parent130,
+.lac-20-lac-parent {
+  border-radius: 8px;
+  background-color: #f8b301;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 15px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.lac-20-lac-parent {
+  background-color: #fff;
+  border: 1px solid #000;
+}
+.frame-parent129 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.trucks-available-in {
+  position: relative;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+}
+.parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.frame-icon43 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.sort-by {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.frame-parent132 {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #d4d4d4;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 20px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: 14px;
+}
+.frame-parent131 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 508px;
+  font-size: 26px;
+  color: #000;
+}
+.breadcrumbs-container,
+.frame-parent128 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+  color: #1e2130;
+  font-family: Mulish;
+}
+.breadcrumbs-container {
+  position: absolute;
+  top: 124px;
+  left: 406px;
+  gap: 30px;
+  font-size: 14px;
+  color: #667085;
+  font-family: Inter;
+}
+.browse-by-brand8 {
+  position: relative;
+  background-color: #fff;
+  width: 1440px;
+  height: 2586px;
+  flex-shrink: 0;
+  overflow: hidden;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: Mulish;
+}

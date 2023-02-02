@@ -1,0 +1,71 @@
+.brands {
+  letter-spacing: 0.02em;
+}
+.brands,
+.frame-icon44,
+.search-top-brands {
+  position: relative;
+}
+.frame-icon44 {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.search-top-brands-parent {
+  border-radius: 8px;
+  border: 1px solid #e7e7e7;
+  box-sizing: border-box;
+  width: 253px;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 15px;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #757575;
+}
+.frame-icon45 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div25 {
+  position: relative;
+  letter-spacing: 0.02em;
+  color: rgba(30, 33, 48, 0.4);
+}
+.ferguson-group,
+.frame-parent134 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.frame-parent134 {
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.brands-parent,
+.frame-parent133 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  font-size: 18px;
+}
+.brands-parent {
+  position: absolute;
+  top: 199px;
+  left: 24px;
+  gap: 14px;
+  text-align: left;
+  font-size: 20px;
+  color: #101010;
+  font-family: Mulish;
+}

@@ -1,0 +1,170 @@
+.trucks {
+  background: linear-gradient(133.93deg, #f6c833, #f69133);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.browse-trucks-by-container {
+  position: relative;
+  line-height: 120%;
+  font-weight: 800;
+}
+.frame-icon21,
+.view-all1 {
+  position: relative;
+}
+.frame-icon21 {
+  border-radius: 8px;
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.browse-trucks-by-brands-parent,
+.view-all-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.view-all-group {
+  border-radius: 8px;
+  background-color: #f7f7f7;
+  overflow: hidden;
+  padding: 17px 24px 17px 30px;
+  justify-content: center;
+  gap: 8px;
+  text-align: left;
+  font-size: 14px;
+}
+.browse-trucks-by-brands-parent {
+  width: 1062px;
+  justify-content: space-between;
+}
+.image-55-icon {
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 41px);
+  width: 83px;
+  height: 30px;
+  object-fit: cover;
+}
+.image-55-wrapper {
+  position: relative;
+  border-radius: 8px;
+  border: 1.5px solid #d4d4d4;
+  box-sizing: border-box;
+  width: 162px;
+  height: 100px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.image-51-icon,
+.image-52-icon,
+.image-56-icon {
+  position: absolute;
+  top: 22px;
+  left: 31px;
+  width: 89px;
+  height: 57px;
+  object-fit: cover;
+}
+.image-51-icon,
+.image-56-icon {
+  top: 26px;
+  left: 29px;
+  width: 85px;
+  height: 47px;
+}
+.image-51-icon {
+  top: 17px;
+  left: 30px;
+  width: 81px;
+  height: 67px;
+}
+.image-50-icon,
+.image-57-icon {
+  position: absolute;
+  top: calc(50% - 23px);
+  left: calc(50% - 42px);
+  width: 85px;
+  height: 45px;
+  object-fit: cover;
+}
+.image-50-icon {
+  top: calc(50% - 27px);
+  left: calc(50% - 39px);
+  width: 79px;
+  height: 53px;
+}
+.frame-parent43 {
+  width: 1062px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.image-57-icon1 {
+  position: absolute;
+  top: 26px;
+  left: 27px;
+  width: 85px;
+  height: 47px;
+  object-fit: cover;
+}
+.image-57-container {
+  position: relative;
+  border-radius: 8px;
+  border: 1.5px solid #d4d4d4;
+  box-sizing: border-box;
+  width: 138px;
+  height: 100px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.image-53-icon,
+.image-54-icon {
+  position: absolute;
+  top: 19px;
+  left: 21px;
+  width: 97px;
+  height: 61px;
+  object-fit: cover;
+}
+.image-53-icon {
+  top: 23px;
+  left: 22px;
+  height: 55px;
+}
+.frame-parent41,
+.frame-parent42,
+.frame-parent44 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.frame-parent41,
+.frame-parent42 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent41 {
+  position: absolute;
+  top: 73px;
+  left: 189px;
+  align-items: flex-start;
+  gap: 36px;
+}
+.browse-by-brand3 {
+  position: relative;
+  background-color: #fff;
+  width: 1440px;
+  height: 468px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 6;
+  text-align: center;
+  font-size: 42px;
+  color: #1e2130;
+  font-family: Mulish;
+}

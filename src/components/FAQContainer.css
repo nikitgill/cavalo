@@ -1,0 +1,101 @@
+.frequently-asked-questions1 {
+  position: absolute;
+  top: 64px;
+  left: 438px;
+  line-height: 120%;
+  font-weight: 800;
+}
+.how-can-i1 {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  width: 349px;
+  flex-shrink: 0;
+}
+.akar-iconscircle-chevron-down1 {
+  position: relative;
+  width: 24px;
+  height: 26px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.how-can-i-sell-a-truck-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 633px;
+}
+.lorem-ipsum-dolor4 {
+  position: relative;
+  font-size: 16px;
+  line-height: 150%;
+  color: #595959;
+  display: inline-block;
+  width: 1006px;
+}
+.frame-parent54,
+.frame-wrapper6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent54 {
+  gap: 4px;
+}
+.frame-wrapper6 {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1.5px solid #eee;
+  padding: 18px 28px 24px;
+}
+.how-do-you {
+  position: relative;
+  line-height: 150%;
+}
+.how-do-you-ensure-the-quality-parent {
+  width: 1006px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-parent53,
+.frame-wrapper7 {
+  width: 1062px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-wrapper7 {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1.5px solid #eee;
+  box-sizing: border-box;
+  padding: 18px 28px 24px;
+  align-items: flex-start;
+}
+.frame-parent53 {
+  position: absolute;
+  top: 167px;
+  left: 189px;
+  align-items: center;
+  gap: 24px;
+  text-align: left;
+  font-size: 22px;
+  color: #2b2f34;
+}
+.browse-by-brand6 {
+  position: relative;
+  background-color: #fff;
+  width: 1440px;
+  height: 764px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 9;
+  text-align: center;
+  font-size: 42px;
+  color: #1e2130;
+  font-family: Mulish;
+}

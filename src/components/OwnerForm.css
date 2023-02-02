@@ -1,0 +1,48 @@
+.owner {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.frame-icon56 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div36 {
+  position: relative;
+  letter-spacing: 0.02em;
+  color: rgba(30, 33, 48, 0.4);
+}
+.frame-parent147,
+.new-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.frame-parent147 {
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.frame-parent146,
+.owner-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  font-size: 18px;
+}
+.owner-parent {
+  position: absolute;
+  top: 579px;
+  left: 24px;
+  gap: 14px;
+  text-align: left;
+  font-size: 20px;
+  color: #101010;
+  font-family: Mulish;
+}

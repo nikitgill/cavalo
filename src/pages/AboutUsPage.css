@@ -1,0 +1,170 @@
+.div,
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 1824px;
+  left: 65px;
+  letter-spacing: 0.02em;
+  opacity: 0.15;
+}
+.div1,
+.div2,
+.div3 {
+  top: 2021px;
+}
+.div2,
+.div3 {
+  top: 2190px;
+}
+.div3 {
+  top: 2390px;
+}
+.rc-transfer-landing-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 603px;
+  overflow: hidden;
+}
+.us {
+  color: #f8b301;
+}
+.about-us-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welcome-to-cavalo {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 1281px;
+  flex-shrink: 0;
+}
+.about-us,
+.welcome-to-cavalo-the-online-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welcome-to-cavalo-the-online-wrapper {
+  flex-direction: row;
+  font-size: 18px;
+  color: #616161;
+}
+.about-us {
+  flex-direction: column;
+  gap: 20px;
+  font-size: 42px;
+}
+.the-most-trusted {
+  position: relative;
+  line-height: 120%;
+}
+.most-trusted {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.blank-line {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.our-large-catalogue {
+  margin: 0;
+}
+.our-mission {
+  position: relative;
+  line-height: 120%;
+  font-weight: 800;
+}
+.our-mission-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.about-us-parent,
+.about-us2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us2 {
+  padding: 10px 0 0;
+  gap: 20px;
+  font-size: 32px;
+}
+.about-us-parent {
+  position: absolute;
+  top: 637px;
+  left: 80px;
+  gap: 30px;
+  font-size: 28px;
+  color: #1e2130;
+}
+.rc-transfer-landing1 {
+  position: relative;
+  background-color: #fff;
+  width: 1440px;
+  height: 2664px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.mail-us-your5 {
+  color: rgba(255, 255, 255, 0.8);
+}
+.at5 {
+  color: #dcdce1;
+}
+.span16 {
+  color: #fff;
+}
+.mail-us-your-queries-at-helpc5 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #dcdce1;
+}
+.need-help-with-container5 {
+  position: relative;
+}
+.need-help5,
+.rc-transfer-page4 {
+  display: flex;
+  align-items: flex-start;
+}
+.need-help5 {
+  background-color: #4e5268;
+  width: 1441px;
+  flex-direction: row;
+  padding: 25px 136px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  font-size: 22px;
+  color: #fff;
+}
+.rc-transfer-page4 {
+  position: absolute;
+  top: 94px;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 3162px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.about-us-page {
+  position: relative;
+  width: 100%;
+  height: 3257px;
+  text-align: left;
+  font-size: 135px;
+  color: #ffa000;
+  font-family: Mulish;
+}

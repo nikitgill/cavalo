@@ -1,0 +1,162 @@
+.buy1 {
+  color: #f8b301;
+}
+.why-buy-from-container1 {
+  position: absolute;
+  top: 94px;
+  left: 537px;
+  line-height: 120%;
+  font-weight: 800;
+}
+.conference-call-2-icon1 {
+  position: relative;
+  width: 75px;
+  height: 75px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.professional-dealers1,
+.we-have-verified1 {
+  position: relative;
+  display: inline-block;
+  width: 190px;
+}
+.we-have-verified1 {
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  color: #b6bdde;
+  width: 265px;
+}
+.professional-dealers-group,
+.why-buy-from-us-cards1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.why-buy-from-us-cards1 {
+  border-radius: 8px;
+  background-color: #1e2130;
+  border: 2px solid rgba(125, 128, 142, 0.15);
+  padding: 38px 28px;
+}
+.why-buy-from-us-cards-group {
+  position: absolute;
+  top: 208px;
+  left: 188px;
+  width: 1063px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 26px;
+}
+.process1 {
+  position: relative;
+  background-color: #1e2130;
+  width: 1440px;
+  height: 626px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.mail-us-your1 {
+  color: rgba(255, 255, 255, 0.8);
+}
+.at1 {
+  color: #dcdce1;
+}
+.span3 {
+  color: #fff;
+}
+.mail-us-your-queries-at-helpc1 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #dcdce1;
+}
+.main,
+.need-help1 {
+  display: flex;
+  align-items: flex-start;
+}
+.need-help1 {
+  background-color: #4e5268;
+  width: 1441px;
+  flex-direction: row;
+  padding: 25px 136px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  font-size: 22px;
+}
+.main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.share-with-a {
+  position: relative;
+}
+.frame-child,
+.instagram-colourful-icon-1 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.instagram-colourful-icon-1 {
+  width: 32.43px;
+  object-fit: cover;
+}
+.group-parent,
+.share-with-a-friend-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23px;
+}
+.share-with-a-friend-parent {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 202.5px);
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.frame-wrapper2 {
+  position: relative;
+  border-radius: 18px;
+  background-color: #fff;
+  border: 1.5px solid #e0e0e0;
+  box-sizing: border-box;
+  width: 473px;
+  height: 70px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 182px;
+  left: 887px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+  font-size: 18px;
+  color: #554100;
+}
+.product-description-page {
+  position: relative;
+  width: 100%;
+  height: 5337px;
+  text-align: left;
+  font-size: 42px;
+  color: #fff;
+  font-family: Mulish;
+}

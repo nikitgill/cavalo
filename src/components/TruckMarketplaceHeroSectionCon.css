@@ -1,0 +1,87 @@
+.bg-icon,
+.dlbeatsnoop-10-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.bg-icon {
+  top: 0;
+  left: 713px;
+  width: 777px;
+  height: 492px;
+  opacity: 0.5;
+  mix-blend-mode: normal;
+}
+.dlbeatsnoop-10-icon {
+  top: 93.85px;
+  left: 915.89px;
+  width: 513.97px;
+  height: 372.19px;
+}
+.frame-child8,
+.rectangle-div {
+  position: relative;
+  border-radius: 22.75px;
+  background-color: #1e2130;
+  width: 114px;
+  height: 4px;
+  flex-shrink: 0;
+  opacity: 0.8;
+}
+.frame-child8 {
+  width: 76px;
+  opacity: 0.2;
+}
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.preowned {
+  background: linear-gradient(133.93deg, #f6c833, #f69133);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.best-marketplace-for-container {
+  position: relative;
+  line-height: 120%;
+  font-weight: 900;
+  display: inline-block;
+  width: 873px;
+}
+.get-the-best {
+  position: relative;
+  font-size: 22px;
+  letter-spacing: 0.02em;
+  color: #616161;
+  display: inline-block;
+  width: 698px;
+}
+.best-marketplace-for-preowned-parent,
+.frame-parent32 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frame-parent32 {
+  position: absolute;
+  top: 76px;
+  left: 80px;
+  gap: 11px;
+}
+.hero-section1 {
+  position: relative;
+  background-color: #fff;
+  width: 1440px;
+  height: 492px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 1;
+  text-align: left;
+  font-size: 72px;
+  color: #1e2130;
+  font-family: Mulish;
+}

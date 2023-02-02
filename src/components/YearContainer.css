@@ -1,0 +1,47 @@
+.frame-icon51 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.above,
+.div31 {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.div31 {
+  color: rgba(30, 33, 48, 0.4);
+}
+.above-parent,
+.frame-parent141 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.frame-parent141 {
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.frame-parent140,
+.year-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  font-size: 18px;
+}
+.year-group {
+  position: absolute;
+  top: 1419px;
+  left: 24px;
+  gap: 14px;
+  text-align: left;
+  font-size: 20px;
+  color: #101010;
+  font-family: Mulish;
+}

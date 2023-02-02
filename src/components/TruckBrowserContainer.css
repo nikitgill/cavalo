@@ -1,0 +1,125 @@
+.browse-by-brand-inner {
+  position: absolute;
+  top: 298.25px;
+  left: 210.25px;
+  border-right: 1.5px dashed #ffa000;
+  box-sizing: border-box;
+  width: 1.5px;
+  height: 229.5px;
+}
+.how-to {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.buy-your-next {
+  margin: 0;
+}
+.how-to-buy-container {
+  position: absolute;
+  top: 72px;
+  left: 189px;
+  line-height: 120%;
+  font-weight: 800;
+  display: inline-block;
+  width: 422px;
+}
+.div4 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: inline-block;
+  width: 28px;
+  flex-shrink: 0;
+}
+.wrapper {
+  border-radius: 53px;
+  background-color: #f8b301;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.find-the {
+  font-weight: 500;
+}
+.perfect-truck {
+  font-weight: 600;
+}
+.find-the-perfect-container {
+  position: relative;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  color: #616161;
+  text-align: left;
+  display: inline-block;
+  width: 296px;
+  flex-shrink: 0;
+}
+.frame-parent34 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.div5,
+.test-drive-the-container {
+  position: relative;
+  letter-spacing: 0.02em;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.div5 {
+  font-weight: 600;
+  width: 28px;
+  height: 28px;
+}
+.test-drive-the-container {
+  font-size: 20px;
+  color: #616161;
+  text-align: left;
+  width: 310px;
+}
+.frame-parent33 {
+  position: absolute;
+  top: 291px;
+  left: 189px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42px;
+  text-align: center;
+  font-size: 22px;
+}
+.image-83-icon {
+  position: absolute;
+  top: 49px;
+  left: 929px;
+  width: 723px;
+  height: 723px;
+  object-fit: cover;
+  opacity: 0.25;
+}
+.browse-by-brand-child1 {
+  position: absolute;
+  top: 59px;
+  left: 607px;
+  width: 861px;
+  height: 617px;
+  object-fit: cover;
+}
+.browse-by-brand2 {
+  position: relative;
+  background-color: #fff;
+  width: 1440px;
+  height: 676px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 4;
+  text-align: left;
+  font-size: 48px;
+  color: #1e2130;
+  font-family: Mulish;
+}

@@ -1,0 +1,179 @@
+.copyright-2021-all {
+  position: relative;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+}
+.image-38-icon {
+  position: relative;
+  width: 121.34px;
+  height: 40.97px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.copyright-2021-all-rights-res-parent,
+.image-54-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.image-54-parent {
+  width: 448px;
+  flex-shrink: 0;
+}
+.copyright-2021-all-rights-res-parent {
+  position: absolute;
+  top: 349px;
+  left: 0;
+  background-color: #1e2130;
+  border-top: 1px solid #3f4356;
+  box-sizing: border-box;
+  width: 1440px;
+  padding: 15px 80px;
+}
+.faqs,
+.overview {
+  position: relative;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.faqs {
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.about-us-group,
+.overview-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-group {
+  gap: 18px;
+  color: #888eaa;
+}
+.overview-parent {
+  gap: 25px;
+}
+.become-a-partner {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.apple-logo-icon {
+  position: relative;
+  width: 17.72px;
+  height: 21.78px;
+  flex-shrink: 0;
+}
+.app-store-icon,
+.download-on-the {
+  position: relative;
+  width: 69.15px;
+  height: 6.37px;
+  flex-shrink: 0;
+}
+.app-store-icon {
+  width: 75.08px;
+  height: 15.72px;
+}
+.apple-logo-parent,
+.download-on-the-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+}
+.apple-logo-parent {
+  border-radius: 8px;
+  background-color: #101010;
+  flex-direction: row;
+  padding: 10px 12px 10px 10px;
+  gap: 10px;
+}
+.get-it-on,
+.google-play-icon,
+.google-play-logo {
+  position: relative;
+  width: 20.36px;
+  height: 22.68px;
+  flex-shrink: 0;
+}
+.get-it-on,
+.google-play-icon {
+  width: 34.44px;
+  height: 5.71px;
+}
+.google-play-icon {
+  width: 74.77px;
+  height: 15.02px;
+}
+.frame-parent56,
+.google-play-logo-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.google-play-logo-parent {
+  border-radius: 8px;
+  background-color: #fff;
+  padding: 10px;
+  align-items: flex-start;
+  gap: 10px;
+}
+.frame-parent56 {
+  align-items: center;
+  gap: 15px;
+}
+.follow-us {
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.facebook-black-icon {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.facebook-black-parent {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.facebook-black-parent,
+.follow-us-parent,
+.frame-parent55 {
+  display: flex;
+  align-items: flex-start;
+}
+.follow-us-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-parent55 {
+  position: absolute;
+  top: 55px;
+  left: 82px;
+  width: 1275.93px;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 18px;
+  color: #fff;
+}
+.footer {
+  position: relative;
+  background-color: #1e2130;
+  width: 1440px;
+  height: 420px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 11;
+  text-align: left;
+  font-size: 14px;
+  color: #888eaa;
+  font-family: Mulish;
+}

@@ -1,0 +1,60 @@
+.frame-child49 {
+  border-radius: 12px 12px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 223px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor6 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.sapin-enim-nisi3 {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container3 {
+  display: inline-block;
+  width: 290px;
+}
+.lorem-ipsum-dolor-container3,
+.samvrant1 {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.frame-child50 {
+  position: relative;
+  border-right: 1.1px solid #1e2130;
+  box-sizing: border-box;
+  width: 1.13px;
+  height: 16.63px;
+  flex-shrink: 0;
+}
+.samvrant-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 16px;
+  color: #1e2130;
+}
+.frame-parent120,
+.lorem-ipsum-dolor-sit-amet-con-parent1 {
+  display: flex;
+  flex-direction: column;
+  padding: 0 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.frame-parent120 {
+  border-radius: 18px;
+  background-color: #fff;
+  padding: 0 0 20px;
+  gap: 20px;
+  text-align: left;
+  font-size: 18px;
+  color: #757575;
+  font-family: Mulish;
+}

@@ -1,0 +1,58 @@
+.explore-by,
+.payload {
+  position: relative;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.payload {
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.frame-icon13 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frame-parent31,
+.payload-parent {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.payload-parent {
+  display: flex;
+  padding: 10px;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.frame-parent31 {
+  gap: 12px;
+  color: #000;
+}
+.explore-by-parent,
+.frame-parent31,
+.nav-bar {
+  display: flex;
+  justify-content: flex-start;
+}
+.explore-by-parent {
+  background-color: #fff;
+  width: 1440px;
+  flex-direction: row;
+  padding: 10px 328px 10px 80px;
+  box-sizing: border-box;
+  align-items: center;
+  gap: 30px;
+}
+.nav-bar {
+  box-shadow: 0 2px 40px rgba(0, 0, 0, 0.08);
+  flex-direction: column;
+  align-items: flex-start;
+  z-index: 0;
+  text-align: left;
+  font-size: 14px;
+  color: #757575;
+  font-family: Mulish;
+}

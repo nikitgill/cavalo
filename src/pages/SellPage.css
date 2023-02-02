@@ -1,0 +1,277 @@
+.selling1 {
+  color: #f8b301;
+}
+.how-does-selling-container {
+  position: absolute;
+  top: 94px;
+  left: calc(50% - 226px);
+  line-height: 120%;
+  font-weight: 800;
+}
+.home-1-icon1 {
+  position: relative;
+  width: 75px;
+  height: 75px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.doorstep-pickup1,
+.we-have-verified3 {
+  position: relative;
+  display: inline-block;
+  width: 190px;
+}
+.we-have-verified3 {
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  color: #b6bdde;
+  width: 265px;
+}
+.doorstep-pickup-group,
+.sell-cards1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.sell-cards1 {
+  border-radius: 8px;
+  background-color: #1e2130;
+  border: 2px solid rgba(125, 128, 142, 0.15);
+  padding: 38px 28px;
+}
+.sell-cards-group {
+  position: absolute;
+  top: 208px;
+  left: 189px;
+  width: 1062px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 26px;
+}
+.process3 {
+  position: absolute;
+  top: 489px;
+  left: 0;
+  background-color: #1e2130;
+  width: 1440px;
+  height: 626px;
+  overflow: hidden;
+  color: #fff;
+}
+.image-64-icon {
+  position: absolute;
+  top: 0;
+  left: 763.27px;
+  width: 676.73px;
+  height: 492px;
+  object-fit: cover;
+}
+.sell-your-old-truck {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.best-value {
+  background: linear-gradient(133.93deg, #f6c833, #f69133);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.get-its-best-value {
+  margin: 0;
+}
+.get-an-accurate,
+.sell-your-old-container {
+  position: relative;
+  display: inline-block;
+  width: 698px;
+}
+.sell-your-old-container {
+  line-height: 120%;
+  font-weight: 900;
+}
+.get-an-accurate {
+  font-size: 22px;
+  letter-spacing: 0.02em;
+  color: #616161;
+}
+.sell-your-old-truck-get-its-parent {
+  position: absolute;
+  top: 91px;
+  left: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.hero-section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 492px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 72px;
+}
+.span9 {
+  color: #fff;
+}
+.happy-customers-served-container {
+  position: relative;
+  line-height: 120%;
+  font-weight: 800;
+  display: inline-block;
+  width: 602px;
+}
+.frame-parent4 {
+  box-shadow: 0 2px 36px rgba(0, 0, 0, 0.18);
+  width: 1062px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.happy-customers-served-by-cava-parent {
+  position: absolute;
+  top: 1166px;
+  left: 189px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.frequently-asked-questions {
+  position: absolute;
+  top: 2001px;
+  left: 439px;
+  line-height: 120%;
+  font-weight: 800;
+}
+.how-can-i {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  width: 349px;
+  flex-shrink: 0;
+}
+.akar-iconscircle-chevron-down {
+  position: relative;
+  width: 24px;
+  height: 26px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.how-can-i-sell-a-truck-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 633px;
+}
+.lorem-ipsum-dolor {
+  position: relative;
+  font-size: 16px;
+  line-height: 150%;
+  color: #595959;
+  display: inline-block;
+  width: 1006px;
+}
+.frame-parent6 {
+  align-items: flex-start;
+  gap: 4px;
+}
+.frame-parent5,
+.frame-parent6,
+.frame-wrapper3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-wrapper3 {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1.5px solid #eee;
+  padding: 18px 28px 24px;
+  align-items: flex-start;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 2104px;
+  left: 190px;
+  width: 1062px;
+  align-items: center;
+  gap: 24px;
+  text-align: left;
+  font-size: 22px;
+  color: #2b2f34;
+}
+.rc-transfer-landing-child {
+  position: absolute;
+  top: 2575px;
+  left: 1290px;
+  width: 136px;
+  height: 134px;
+}
+.rc-transfer-landing {
+  position: relative;
+  background-color: #fff;
+  width: 1440px;
+  height: 2709px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.mail-us-your3 {
+  color: rgba(255, 255, 255, 0.8);
+}
+.at3 {
+  color: #dcdce1;
+}
+.mail-us-your-queries-at-helpc3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #dcdce1;
+}
+.need-help-with-container3 {
+  position: relative;
+}
+.need-help3,
+.rc-transfer-page1 {
+  display: flex;
+  align-items: flex-start;
+}
+.need-help3 {
+  background-color: #4e5268;
+  width: 1441px;
+  flex-direction: row;
+  padding: 25px 136px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  text-align: left;
+  font-size: 22px;
+  color: #fff;
+}
+.rc-transfer-page1 {
+  position: absolute;
+  top: 94px;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 2787px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.sell-page {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3301px;
+  text-align: center;
+  font-size: 42px;
+  color: #1e2130;
+  font-family: Mulish;
+}

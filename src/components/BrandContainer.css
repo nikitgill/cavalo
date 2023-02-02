@@ -1,0 +1,115 @@
+.happy-customers1 {
+  background: linear-gradient(133.93deg, #f6c833, #f69133);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.happy-customers-served-container1 {
+  position: absolute;
+  top: 64px;
+  left: 419px;
+  line-height: 120%;
+  font-weight: 800;
+  display: inline-block;
+  width: 602px;
+}
+.frame-child12 {
+  border-radius: 12px 12px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 223px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.sapin-enim-nisi {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  display: inline-block;
+  width: 290px;
+}
+.lorem-ipsum-dolor-container,
+.samvrant {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.frame-child13 {
+  position: relative;
+  border-right: 1.1px solid #1e2130;
+  box-sizing: border-box;
+  width: 1.13px;
+  height: 16.63px;
+  flex-shrink: 0;
+}
+.samvrant-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 16px;
+  color: #1e2130;
+}
+.frame-parent50,
+.lorem-ipsum-dolor-sit-amet-con-parent {
+  display: flex;
+  flex-direction: column;
+  padding: 0 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.frame-parent50 {
+  border-radius: 18px;
+  background-color: #fff;
+  padding: 0 0 20px;
+  gap: 20px;
+}
+.frame-child14 {
+  border-radius: 12px 12px 0 0;
+  width: 338px;
+  height: 223px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-parent49,
+.frame-parent51 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent51 {
+  border-radius: 18px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 18px;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.frame-parent49 {
+  position: absolute;
+  top: 221px;
+  left: 189px;
+  box-shadow: 0 2px 36px rgba(0, 0, 0, 0.18);
+  width: 1062px;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: left;
+  font-size: 18px;
+  color: #757575;
+}
+.browse-by-brand5 {
+  position: relative;
+  background-color: #1e2130;
+  width: 1440px;
+  height: 816px;
+  flex-shrink: 0;
+  overflow: hidden;
+  z-index: 8;
+  text-align: center;
+  font-size: 42px;
+  color: #fff;
+  font-family: Mulish;
+}
